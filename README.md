@@ -70,3 +70,9 @@ scale-models-sales-analysis/
 
 ---
 ⭐ Star this repo if you found it useful!
+
+
+
+excel  data-analytics  power-pivot  power-query  dashboard  
+data-visualization  business-analysis  data-modeling  
+pivot-tables  dax  excel-dashboard
